@@ -1,0 +1,8 @@
+{
+  "name": "HealthLens AI",
+  "description": "AI-powered medical report analyzer and health companion. Upload your health reports for instant OCR extraction, disease risk assessment, and personalized health insights via chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
